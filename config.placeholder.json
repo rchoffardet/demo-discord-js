@@ -1,0 +1,5 @@
+// A renommer en config.json
+{
+    "token": "Your token her",
+    "channelId": "the channel id here"
+}
